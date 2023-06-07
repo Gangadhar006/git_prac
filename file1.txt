@@ -3,3 +3,5 @@ line2 in file1
 line3 in file1
 line4 in file1
 line5 in file1
+line6 in file1 from test
+line7 in file1 from test
