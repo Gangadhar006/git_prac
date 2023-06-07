@@ -7,3 +7,4 @@ line6 in file1 from test
 line7 in file1 from test
 line8 in file1 from test
 line10 in file1 from test
+line9 in file1 from test
