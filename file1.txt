@@ -1,3 +1,5 @@
 line1 in file1
 line2 in file1
 line3 in file1
+line4 in file1
+line5 in file1
